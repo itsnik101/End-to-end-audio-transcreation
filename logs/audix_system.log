@@ -1,0 +1,52 @@
+2026-06-19 19:39:09,833 [INFO] faiss.loader - Loading faiss with AVX2 support.
+2026-06-19 19:39:09,850 [INFO] faiss.loader - Successfully loaded faiss with AVX2 support.
+2026-06-19 19:39:15,453 [INFO] audix.vector - Initializing SentenceTransformer embedding framework weights ('all-MiniLM-L6-v2').
+2026-06-19 19:39:15,453 [INFO] sentence_transformers.SentenceTransformer - Use pytorch device_name: cpu
+2026-06-19 19:39:15,453 [INFO] sentence_transformers.SentenceTransformer - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-06-19 19:39:22,477 [INFO] audix.vector - No prior mathematical binary index records found. Mounting empty IndexFlatIP matrix configuration layout.
+2026-06-19 19:39:22,518 [INFO] audix.api - Initializing persistent SQLite tracking schema indices.
+2026-06-19 19:39:22,532 [INFO] audix.api - Database structural verification completed successfully.
+2026-06-19 19:39:27,142 [INFO] faiss.loader - Loading faiss with AVX2 support.
+2026-06-19 19:39:27,158 [INFO] faiss.loader - Successfully loaded faiss with AVX2 support.
+2026-06-19 19:39:33,834 [INFO] audix.vector - Initializing SentenceTransformer embedding framework weights ('all-MiniLM-L6-v2').
+2026-06-19 19:39:33,834 [INFO] sentence_transformers.SentenceTransformer - Use pytorch device_name: cpu
+2026-06-19 19:39:33,834 [INFO] sentence_transformers.SentenceTransformer - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-06-19 19:39:38,386 [INFO] audix.vector - No prior mathematical binary index records found. Mounting empty IndexFlatIP matrix configuration layout.
+2026-06-19 19:39:38,405 [INFO] audix.api - Initializing persistent SQLite tracking schema indices.
+2026-06-19 19:39:38,410 [INFO] audix.api - Database structural verification completed successfully.
+2026-06-19 19:39:42,949 [INFO] faiss.loader - Loading faiss with AVX2 support.
+2026-06-19 19:39:42,964 [INFO] faiss.loader - Successfully loaded faiss with AVX2 support.
+2026-06-19 19:39:50,404 [INFO] sentence_transformers.SentenceTransformer - Use pytorch device_name: cpu
+2026-06-19 19:39:50,404 [INFO] sentence_transformers.SentenceTransformer - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-06-19 19:39:54,385 [INFO] audix.vector - Initializing baseline IndexFlatIP configurations for true Cosine metrics.
+2026-06-19 19:39:54,392 [INFO] audix.api - Initializing persistent SQLite tracking schema indices.
+2026-06-19 19:39:54,400 [INFO] audix.api - Database structural verification completed successfully.
+2026-06-19 19:39:59,000 [INFO] faiss.loader - Loading faiss with AVX2 support.
+2026-06-19 19:39:59,017 [INFO] faiss.loader - Successfully loaded faiss with AVX2 support.
+2026-06-19 19:40:03,449 [INFO] sentence_transformers.SentenceTransformer - Use pytorch device_name: cpu
+2026-06-19 19:40:03,449 [INFO] sentence_transformers.SentenceTransformer - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-06-19 19:40:07,894 [INFO] audix.vector - Initializing baseline IndexFlatIP configurations for true Cosine metrics.
+2026-06-19 19:40:07,919 [INFO] audix.api - Initializing relational SQLite storage index configurations asynchronously.
+2026-06-19 19:40:11,492 [INFO] faiss.loader - Loading faiss with AVX2 support.
+2026-06-19 19:40:11,511 [INFO] faiss.loader - Successfully loaded faiss with AVX2 support.
+2026-06-19 19:40:15,863 [INFO] sentence_transformers.SentenceTransformer - Use pytorch device_name: cpu
+2026-06-19 19:40:15,863 [INFO] sentence_transformers.SentenceTransformer - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-06-19 19:40:20,136 [INFO] audix.vector - Initializing baseline IndexFlatIP configurations for true Cosine metrics.
+2026-06-19 19:40:20,143 [INFO] audix.api - Initializing relational SQLite storage index configurations asynchronously.
+2026-06-19 19:40:23,327 [INFO] faiss.loader - Loading faiss with AVX2 support.
+2026-06-19 19:40:23,342 [INFO] faiss.loader - Successfully loaded faiss with AVX2 support.
+2026-06-19 19:40:27,817 [INFO] sentence_transformers.SentenceTransformer - Use pytorch device_name: cpu
+2026-06-19 19:40:27,817 [INFO] sentence_transformers.SentenceTransformer - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-06-19 19:40:31,523 [INFO] audix.vector - Initializing baseline IndexFlatIP configurations for true Cosine metrics.
+2026-06-19 19:40:31,532 [INFO] audix.api - Initializing relational SQLite storage index configurations asynchronously.
+2026-06-19 19:40:38,581 [INFO] audix.api - Terminating API orchestrator operations context mapping.
+2026-06-19 19:40:38,581 [INFO] audix.voice - Flushing background concurrent thread pool frameworks.
+2026-06-19 19:44:48,241 [INFO] audix.config - Successfully loaded environmental definitions from: D:\GEN AI Projects\Text to Voice Project\.env
+2026-06-19 19:44:48,262 [INFO] faiss.loader - Loading faiss with AVX2 support.
+2026-06-19 19:44:48,275 [INFO] faiss.loader - Successfully loaded faiss with AVX2 support.
+2026-06-19 19:44:52,715 [INFO] sentence_transformers.SentenceTransformer - Use pytorch device_name: cpu
+2026-06-19 19:44:52,715 [INFO] sentence_transformers.SentenceTransformer - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-06-19 19:44:57,480 [INFO] audix.vector - Initializing baseline IndexFlatIP configurations for Cosine math metrics.
+2026-06-19 19:44:57,485 [INFO] audix.api - Initializing relational SQLite framework metrics schemas asynchronously.
+2026-06-19 19:49:04,368 [INFO] audix.api - Terminating API orchestration interface operations context mapping.
+2026-06-19 19:49:04,368 [INFO] audix.voice - Flushing thread pools clean for application exit sequence.
